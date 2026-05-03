@@ -1,0 +1,21 @@
+title: Anjana Rajagopal
+description: AI/ML Engineer | Computer Vision | NLP | Graph ML
+
+# Your GitHub username
+github_username: anjipoo
+
+# Base settings (important for GitHub Pages)
+url: "https://anjipoo.github.io"
+baseurl: ""
+
+# Socials (optional but useful later)
+linkedin: anjana-r-9b16382a4e
+
+# Build settings
+markdown: kramdown
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - node_modules
+  - vendor
