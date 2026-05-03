@@ -1,0 +1,43 @@
+/* ADD BELOW EXISTING CSS */
+
+.hero h2 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.hero p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+/* TAGS (skills) */
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tags span {
+    background: #1e293b;
+    padding: 8px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    color: #38bdf8;
+}
+
+/* PROJECT CARD ENHANCEMENT */
+.card {
+    border: 1px solid #334155;
+}
+
+.card .tech {
+    font-size: 12px;
+    color: #38bdf8;
+    margin-bottom: 8px;
+}
+
+/* HOVER = subtle but premium */
+.card:hover {
+    transform: translateY(-6px);
+    border-color: #38bdf8;
+}

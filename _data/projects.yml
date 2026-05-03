@@ -1,0 +1,19 @@
+- title: Cyber Threat Intelligence System
+  tech: GNN, PyTorch, Network Security
+  desc: Graph-based intrusion detection using GCN for anomaly detection.
+  link: https://github.com/anjipoo/Cyber-Threat-Intelligence-Platform-CTI-
+
+- title: Fake Image Detection
+  tech: Computer Vision, OpenCV, Feature Engineering
+  desc: Detect manipulated images using pixel-level inconsistencies.
+  link: https://github.com/anjipoo/fake_image_detection_using_exif_metadata
+
+- title: Edu Assistant AI
+  tech: RAG, FAISS, LLM, FastAPI
+  desc: Stateful AI assistant for academic guidance using retrieval + LLM.
+  link: https://github.com/anjipoo/edu-assistant
+
+- title: Drug Repurposing using GML
+  tech: GNNs, PyTorch Geometric, Knowledge Graphs
+  desc: Predicts missing/future links between drugs and diseases using node & edge features
+  link: https://github.com/anjipoo/seminar_drug_repurp

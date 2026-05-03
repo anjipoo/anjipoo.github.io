@@ -1,0 +1,52 @@
+---
+layout: default
+title: Anjana | AI/ML Portfolio
+---
+
+<!-- HERO -->
+<div class="hero">
+    <h2>AI/ML Engineer building intelligent systems</h2>
+    <p>
+        Focused on Computer Vision, NLP, and real-world AI applications.
+        I care about performance, interpretability, and clean pipelines.
+    </p>
+</div>
+
+<!-- SKILLS -->
+<section>
+    <h3>Core Areas</h3>
+    <div class="tags">
+        <span>Computer Vision</span>
+        <span>NLP</span>
+        <span>Deep Learning</span>
+        <span>Graph ML</span>
+        <span>Healthcare AI</span>
+    </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+    <h3>Selected Work</h3>
+
+    <div class="projects">
+        {% for project in site.data.projects %}
+        <div class="card">
+            <h4>{{ project.title }}</h4>
+
+            <p class="tech">{{ project.tech }}</p>
+
+            <p>{{ project.desc }}</p>
+
+            <a href="{{ project.link }}">View Code →</a>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h3>Contact</h3>
+    <p>Email: anjanarajagopal2004@gmail.com</p>
+    <p><a href="https://github.com/anjipoo">GitHub</a></p>
+    <p><a href="https://www.linkedin.com/in/anjana-r-9b16382a4e">LinkedIn</a></p>
+</section>
