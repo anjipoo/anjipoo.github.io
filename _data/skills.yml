@@ -1,0 +1,18 @@
+categories:
+  - name: Languages
+    items: [Python, C++, SQL, Java, R, C]
+
+  - name: ML / DL Frameworks
+    items: [PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV]
+
+  - name: NLP & LLMs
+    items: [Transformers, RAG, FAISS, LangChain (basic), Sentence-BERT, spaCy]
+
+  - name: Computer Vision
+    items: [CNNs, Object Detection, Image Forensics]
+
+  - name: Graph Learning
+    items: [GNNs, Knowledge Graphs, PyTorch Geometric, NetworkX]
+
+  - name: Infrastructure
+    items: [FastAPI, Flask, Git, Linux (basic), Jupyter]

@@ -1,21 +1,24 @@
 title: Anjana Rajagopal
-description: AI/ML Engineer | Computer Vision | NLP | Graph ML
-
-# Your GitHub username
-github_username: anjipoo
-
-# Base settings (important for GitHub Pages)
-url: "https://anjipoo.github.io"
+description: AI/ML Engineer — Computer Vision, NLP, Graph Learning
+url: "https://anjana-rajagopal.github.io"
 baseurl: ""
 
-# Socials (optional but useful later)
-linkedin: anjana-r-9b16382a4e
+author:
+  name: Anjana Rajagopal
+  email: anjana@example.com
+  github: anjana-rajagopal
+  linkedin: anjana-rajagopal
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
-# Exclude unnecessary files
+plugins:
+  - jekyll-seo-tag
+
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
   - node_modules
-  - vendor

@@ -1,19 +1,36 @@
-- title: Cyber Threat Intelligence System
-  tech: GNN, PyTorch, Network Security
-  desc: Graph-based intrusion detection using GCN for anomaly detection.
-  link: https://github.com/anjipoo/Cyber-Threat-Intelligence-Platform-CTI-
+- id: cyber-threat
+  title: Cyber Threat Intelligence System
+  tagline: Graph-powered threat detection at network scale
+  description: >
+    Built an end-to-end threat intelligence pipeline using Graph Convolutional Networks 
+    to model relationships between network entities. The system identifies malicious 
+    patterns across IP clusters, domains, and behavioral signatures with high precision 
+    on real-world security datasets.
+  tags: [GCN, PyTorch, Network Security, Graph Learning]
+  category: Graph Learning
+  github: "https://github.com/anjipoo/Cyber-Threat-Intelligence-Platform-CTI-"
+  highlight: true
 
-- title: Fake Image Detection
-  tech: Computer Vision, OpenCV, Feature Engineering
-  desc: Detect manipulated images using pixel-level inconsistencies.
-  link: https://github.com/anjipoo/fake_image_detection_using_exif_metadata
+- id: fake-image
+  title: Fake Image Detection
+  tagline: Pixel-level forensics for synthetic media
+  description: >
+    Developed 
+  tags: [Computer Vision, Machine Learning, ImageIO, Java, Image Forensics]
+  category: Computer Vision
+  github: "https://github.com/anjipoo/mpj_enhancement"
+  highlight: true
 
-- title: Edu Assistant AI
-  tech: RAG, FAISS, LLM, FastAPI
-  desc: Stateful AI assistant for academic guidance using retrieval + LLM.
-  link: https://github.com/anjipoo/edu-assistant
+- id: edu-assistant
+  title: Edu Assistant AI
+  tagline: RAG-powered academic knowledge engine
+  description: >
+    A retrieval-augmented generation system for educational content, combining 
+    FAISS vector search with LLM generation via a FastAPI backend. Supports 
+    multi-document ingestion, semantic chunking, and context-aware Q&A for 
+    student and instructor workflows.
+  tags: [RAG, FAISS, FastAPI, LLM, Python]
+  category: NLP
+  github: "#"
+  highlight: true
 
-- title: Drug Repurposing using GML
-  tech: GNNs, PyTorch Geometric, Knowledge Graphs
-  desc: Predicts missing/future links between drugs and diseases using node & edge features
-  link: https://github.com/anjipoo/seminar_drug_repurp

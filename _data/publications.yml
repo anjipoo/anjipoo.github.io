@@ -1,0 +1,23 @@
+- title: "Comparative Analysis of Deep Learning Models for Underwater Trash Detection: A Study of R-CNN, YOLO, SSD, and DeepLabv3+ — ICISA 2025"
+  venue: "International Conference on Intelligent Systems and Applications (ICISA 2025)"
+  year: 2025
+  description: >
+    Brief description of the research contribution. Edit this with your actual abstract or summary.
+  tags: [Computer Vision, Deep Learning]
+  link: "#"
+
+- title: "Enhancing Dermatological Diagnosis with FewShot Learning — ICCUBEA 2025"
+  venue: "International Conference on Computing, Communication, and Big Data & Emerging Applications (ICCUBEA 2025)"
+  year: 2025
+  description: >
+    Brief description of the research contribution. Edit this with your actual abstract or summary.
+  tags: [Few-shot Learning, Deep Learning]
+  link: "#"
+
+- title: "A Hybrid Approach to Fake Job Detection Using NLP and Machine Learning  — ICTBIG 2025"
+  venue: "International Conference on Transformative Business and Industry with Growth (ICTBIG 2025)"
+  year: 2025
+  description: >
+    Brief description of the research contribution. Edit this with your actual abstract or summary.
+  tags: [NLP, BERT]
+  link: "#"
