@@ -2,22 +2,24 @@
   venue: "International Conference on Intelligent Systems and Applications (ICISA 2025)"
   year: 2025
   description: >
-    Brief description of the research contribution. Edit this with your actual abstract or summary.
+    Used and compared the performance of R-CNN, YOLO, SSD, and DeepLabv3+ for underwater trash detection. Evaluated models on a custom dataset of underwater images, analyzing precision, recall, and F1-score to identify the most effective approach for real-time marine debris monitoring.
+    DeepLabv3+ achieved the highest accuracy with an F1-score of 0.92, demonstrating superior performance in segmenting and classifying underwater trash compared to the other models.
   tags: [Computer Vision, Deep Learning]
-  link: "#"
+  link: "https://link.springer.com/chapter/10.1007/978-981-95-5923-7_2"
 
-- title: "Enhancing Dermatological Diagnosis with FewShot Learning — ICCUBEA 2025"
+- title: "Enhancing Dermatological Diagnosis with Few Shot Learning — ICCUBEA 2025"
   venue: "International Conference on Computing, Communication, and Big Data & Emerging Applications (ICCUBEA 2025)"
   year: 2025
   description: >
-    Brief description of the research contribution. Edit this with your actual abstract or summary.
+    used FSL techniques to improve diagnostic accuracy in dermatology with limited labeled data. Evaluated the performance of Prototypical Networks and Matching Networks on a dataset of skin lesion images, demonstrating significant improvements in classification accuracy with as few as 5 labeled examples per class.
+    DenseNet21 performed best with F1 score of 0.97 in the 10-shot configuration.
   tags: [Few-shot Learning, Deep Learning]
-  link: "#"
+  link: "https://ieeexplore.ieee.org/document/11284208"
 
 - title: "A Hybrid Approach to Fake Job Detection Using NLP and Machine Learning  — ICTBIG 2025"
   venue: "International Conference on Transformative Business and Industry with Growth (ICTBIG 2025)"
   year: 2025
   description: >
-    Brief description of the research contribution. Edit this with your actual abstract or summary.
+    Proposed a hybrid approach for detecting fake job postings using NLP and machine learning techniques. The method combines sentiment analysis, keyword extraction, and deep learning models to improve detection accuracy on a dataset of real-world job listings.
   tags: [NLP, BERT]
-  link: "#"
+  link: "https://ieeexplore.ieee.org/document/11323989"
