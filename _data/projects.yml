@@ -31,6 +31,6 @@
     student and instructor workflows.
   tags: [RAG, FAISS, FastAPI, LLM, Python]
   category: NLP
-  github: "#"
+  github: "https://github.com/anjipoo/edu-assistant"
   highlight: true
 
