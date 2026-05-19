@@ -5,6 +5,21 @@
 (function () {
   'use strict';
 
+  // --- Theme toggle ---
+  const themeToggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+
+  // Load saved preference, default to dark
+  const saved = localStorage.getItem('theme') || 'dark';
+  html.setAttribute('data-theme', saved);
+
+  themeToggle.addEventListener('click', () => {
+    const current = html.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+
   // --- Nav scroll state ---
   const nav = document.getElementById('nav');
   window.addEventListener('scroll', () => {
