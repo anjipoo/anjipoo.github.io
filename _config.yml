@@ -1,6 +1,6 @@
 title: Anjana Rajagopal
 description: AI/ML Engineer — Computer Vision, NLP, Graph Learning
-url: "https://anjana-rajagopal.github.io"
+url: "https://anjipoo.github.io"
 baseurl: ""
 
 author:
@@ -9,7 +9,6 @@ author:
   github: anjipoo
   linkedin: anjana-r-9b16382a4
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty

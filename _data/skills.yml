@@ -6,7 +6,7 @@ categories:
     items: [PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV]
 
   - name: NLP & LLMs
-    items: [Transformers, RAG, FAISS, LangChain (basic), Sentence-BERT, spaCy]
+    items: [Transformers, RAG, FAISS, LangChain, Sentence-BERT, spaCy]
 
   - name: Computer Vision
     items: [CNNs, Object Detection, Image Forensics]
@@ -15,4 +15,4 @@ categories:
     items: [GNNs, Knowledge Graphs, PyTorch Geometric, NetworkX]
 
   - name: Infrastructure
-    items: [FastAPI, Flask, Git, Linux (basic), Jupyter]
+    items: [FastAPI, Flask, Git, Linux, Jupyter]
