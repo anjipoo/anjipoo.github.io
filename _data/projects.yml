@@ -1,10 +1,10 @@
 - id: cyber-threat
   title: Cyber Threat Intelligence System
-  tagline: Graph-powered threat detection at network scale
+  tagline: "graph-powered threat detection at network scale"
   description: >
-    Built an end-to-end threat intelligence pipeline using Graph Convolutional Networks
-    to model relationships between network entities. The system identifies malicious
-    patterns across IP clusters, domains, and behavioral signatures with high precision
+    Built an end-to-end threat intel pipeline using Graph Convolutional Networks
+    to model relationships between network entities. Identifies malicious patterns
+    across IP clusters, domains, and behavioral signatures with high precision
     on real-world security datasets.
   tags: [GCN, PyTorch, Network Security, Graph Learning]
   category: Graph Learning
@@ -13,11 +13,11 @@
 
 - id: fake-image
   title: Fake Image Detection
-  tagline: Pixel-level forensics for synthetic media
+  tagline: "pixel-level forensics for synthetic media"
   description: >
-    Developed a computer vision pipeline to detect AI-generated and manipulated
-    images using pixel-level statistical features, noise analysis, and frequency
-    domain artifacts — achieving robust detection across multiple generation approaches.
+    Computer vision pipeline to detect AI-generated and manipulated images
+    using pixel-level statistical features, noise analysis, and frequency
+    domain artifacts. Robust detection across multiple generation approaches.
   tags: [Computer Vision, Machine Learning, ImageIO, Java, Image Forensics]
   category: Computer Vision
   status: Research
@@ -25,12 +25,11 @@
 
 - id: edu-assistant
   title: Edu Assistant AI
-  tagline: RAG-powered academic knowledge engine
+  tagline: "rag-powered academic knowledge engine"
   description: >
-    A retrieval-augmented generation system for educational content, combining
-    FAISS vector search with LLM generation via a FastAPI backend. Supports
-    multi-document ingestion, semantic chunking, and context-aware Q&A for
-    student and instructor workflows.
+    Retrieval-augmented generation system for educational content — FAISS vector
+    search + LLM generation via FastAPI. Multi-document ingestion, semantic
+    chunking, and context-aware Q&A for students and instructors.
   tags: [RAG, FAISS, FastAPI, LLM, Python]
   category: NLP
   status: Production

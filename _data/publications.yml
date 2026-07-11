@@ -1,29 +1,28 @@
 - title: "Comparative Analysis of Deep Learning Models for Underwater Trash Detection"
-  venue: "ICISA 2025 — International Conference on Intelligent Systems and Applications"
+  venue: "ICISA 2025"
   year: 2025
   description: >
-    Compared R-CNN, YOLO, SSD, and DeepLabv3+ for underwater trash detection on a custom
-    dataset of underwater images. DeepLabv3+ achieved the highest accuracy with an F1-score
-    of 0.92, demonstrating superior performance in segmenting and classifying marine debris.
+    Compared R-CNN, YOLO, SSD, and DeepLabv3+ for underwater trash detection.
+    DeepLabv3+ hit F1 = 0.92 — best at segmenting marine debris in the wild.
   tags: [Computer Vision, Deep Learning, Segmentation]
   link: "https://link.springer.com/chapter/10.1007/978-981-95-5923-7_2"
 
 - title: "Enhancing Dermatological Diagnosis with Few-Shot Learning"
-  venue: "ICCUBEA 2025 — International Conference on Computing, Communication & Big Data"
+  venue: "ICCUBEA 2025"
   year: 2025
   description: >
-    Applied few-shot learning to improve diagnostic accuracy in dermatology with limited
-    labeled data. DenseNet21 achieved an F1-score of 0.97 in the 10-shot configuration
-    using Prototypical and Matching Networks on skin lesion images.
+    FSL for skin lesion classification with limited labels. DenseNet121
+    achieved F1 = 0.97 at 10-shot — significant given how scarce labeled
+    dermatology data actually is.
   tags: [Few-Shot Learning, Deep Learning, Medical AI]
   link: "https://ieeexplore.ieee.org/document/11284208"
 
-- title: "A Hybrid Approach to Fake Job Detection Using NLP and Machine Learning"
-  venue: "ICTBIG 2025 — International Conference on Transformative Business and Industry"
+- title: "A Hybrid Approach to Fake Job Detection Using NLP and ML"
+  venue: "ICTBIG 2025"
   year: 2025
   description: >
-    Proposed a hybrid NLP + ML approach for detecting fake job postings, combining
-    sentiment analysis, keyword extraction, and deep learning models to improve
-    detection accuracy on real-world job listing datasets.
+    Hybrid NLP + ML pipeline for detecting fake job postings — sentiment
+    analysis, keyword extraction, and deep learning. Built on real-world
+    job listing data because the problem is genuinely annoying.
   tags: [NLP, BERT, Machine Learning]
   link: "https://ieeexplore.ieee.org/document/11323989"
